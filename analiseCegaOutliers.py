@@ -2,6 +2,8 @@ import numpy as np
 import itertools
 import random
 
+#alteracao
+
 def time_lagged_cov(X, num_lags):
 
     N = X.shape[0]
